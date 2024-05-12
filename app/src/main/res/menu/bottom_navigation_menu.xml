@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="Home" />
+    <item
+        android:id="@+id/navigation_classes"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="Classes" />
+    <item
+        android:id="@+id/navigation_rooms"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="Rooms" />
+    <item
+        android:id="@+id/navigation_audio_learn"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="Audio Learn" />
+    <item
+        android:id="@+id/navigation_plans"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="Plan" />
+</menu>
