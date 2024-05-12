@@ -4,17 +4,46 @@
     tools:showIn="navigation_view">
 
     <group android:checkableBehavior="single">
+
         <item
-            android:id="@+id/nav_home"
+            android:id="@+id/nav_plan"
             android:icon="@drawable/ic_menu_camera"
-            android:title="@string/menu_home" />
+            android:title="@string/menu_plan" />
         <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="@string/menu_gallery" />
+            android:id="@+id/nav_package"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_package" />
         <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_slideshow" />
+            android:id="@+id/nav_call_history"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_call_history" />
+        <item
+            android:id="@+id/nav_free_learning_benefits"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_free_learning_benefits" />
+        <item
+            android:id="@+id/nav_fqas"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_faqs" />
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_rate_quicklearns" />
+        <item
+            android:id="@+id/nav_give_us_feedback"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_give_us_feedback" />
+        <item
+            android:id="@+id/nav_student_support"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_student_support" />
+        <item
+            android:id="@+id/nav_privacy_policy"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_privacy_policy" />
+        <item
+            android:id="@+id/nav_term_n_condition"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_terms_and_conditions" />
     </group>
 </menu>
